@@ -45,7 +45,7 @@
 <details><summary>➡️ 플로우차트
 </summary>
 
-![Image](https://github.com/user-attachments/assets/d2a9d127-9018-4ec4-bc06-8b570b6fe74c)
+![Image](https://github.com/user-attachments/assets/5a80d62a-dcb3-4838-a7e3-c25673bf9454)
 ## 
 
 
@@ -55,7 +55,8 @@
 <details><summary>📊 데이터베이스
 </summary>
 
-![Image](https://github.com/user-attachments/assets/1a9385d3-2be9-4ec9-9d7a-54563efa3f8d)
+![Image](https://github.com/user-attachments/assets/7abfcbb7-c40c-4253-9e01-f940bbac1cbf)
+
 ## 
 
 
